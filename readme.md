@@ -1,4 +1,4 @@
-# Ejemplo de XML-RPC
+# Simple XML-RPC example in Java 
 
 This is a simple example showing how to implement a client and a server using XML-RPC.
 
